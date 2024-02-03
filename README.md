@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pandex32
 - 👀 I’m interested in Learning how to code
 - 🌱 I’m currently learning Python and Java
-- 😄 Pronouns: HE/Him
 
 
 <!---
